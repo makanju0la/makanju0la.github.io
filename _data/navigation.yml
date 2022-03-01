@@ -1,22 +1,30 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Professional Experience"
+    url: /experience/
+
+
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
+  # - title: "CV"
+  #   url: /cv/
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Makanjuola's%20Resume.pdf/
+
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Guide"
+  #   url: /markdown/
