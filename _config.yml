@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Makanjuola Ogunleye"
   avatar           : "profile_picture.png"
-  bio              : "PhD Student in Computer Science at Virginia Tech working with Dr. Ismini Lourentzou. 
-  Interested in the field of Machine Learning, NLP, 
-  Reinforcement Learning and Emergent Communication"
+  bio              : "CS Ph.D. Student at Virginia Tech working under Dr. Ismini Lourentzou. 
+  Interested in the field of Reinforcement Learning, ML, NLP, and Emergent Communication"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
