@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "Professional Experience"
+  - title: "Internship Experiences and Service"
     url: /experience/
 
 
@@ -20,7 +20,7 @@ main:
   # - title: "CV"
   #   url: /cv/
   - title: "CV"
-    url: /files/Makanjuola's%20Resume.pdf/
+    url: https://drive.google.com/file/d/1PrXZhNJhJohaYKhsiMu1K1N9Z4VqBGtI/view?usp=sharing
 
 
   - title: "Publications"
