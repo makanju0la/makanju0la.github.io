@@ -14,7 +14,8 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* Data Analytics intern in the Application Support Engineering Team @ **Northwestern Mutual**, Milwaukee, WI, Summer 2021
+* Data Scientist, Phd Intern in the AI Capital Group @ **Intuit, Inc**, Mountain View, CA, Summer 2022
+* Data Analytics Intern in the Application Support Engineering Team @ **Northwestern Mutual**, Milwaukee, WI, Summer 2021
 * Research Scientist @ **Digital Humanities Research Unit, University of Lagos**, Lagos, Nigeria, August 2016 – November 2018
 * Research Intern @ **Digital Humanities Research Unit, University of Lagos**, Lagos, Nigeria, June 2016 – August 2016
 * Data Analyst Intern in the Risk Consulting Division @ **KPMG**, Lagos, Nigeria, Summer 2015
@@ -22,6 +23,7 @@ Education
 
 Teaching
 ======
+* [CS5824@VT]([https://cs.vt.edu/Undergraduate/courses/CS5824.html](https://cs.vt.edu/Graduate/Courses/GradCourseDescriptions.html#CS5824) Advanced Machine Learning, TA, Fall 2022
 * [CS3414@VT](https://cs.vt.edu/Undergraduate/courses/CS3704.html) Intermediate Software Design and Engineering, TA, Spring 2022
 * [CS5604@VT](https://isminoula.github.io/CS5604F21/) Information Storage and Retrieval, TA, Fall 2021 
 * [CS4624@VT](https://cs.vt.edu/Undergraduate/courses/CS4624.html) Multimedia, Hypertext, and Information Access, TA, Spring 2021
