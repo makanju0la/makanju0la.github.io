@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Makanjuola Ogunleye"
-  avatar           : "profile-picture-mack.png"
+  avatar           : "mackay_profile_pic.png"
   bio              : "CS Ph.D. Student at Virginia Tech working under Dr. Ismini Lourentzou. 
   Interested in the field of NLP, Data Science, Emergent Communication and Embodied AI"
   location         : "Blacksburg, VA"
@@ -89,7 +89,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=th&user=5HHDgpsAAAAJ"
   email            :  "mogunleye@vt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Makanjuola-Ogunleye"
   uri              :
   bitbucket        :
   codepen          :
